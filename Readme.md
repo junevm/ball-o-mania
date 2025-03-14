@@ -9,7 +9,7 @@ A game created as a passion project when I was in high school. This Game was cre
 
 ## Download
 The game will not display on your Playstore if you are on latest version of android as it was targeted for older version of android. I suggest you download the `APK` directly from the below link:
-- `Direct APK`: [Download from GitHub](https://gitlab.com/a0v0/Ball-O-Mania/-/raw/main/apk/ballomania_v1.0.4.apk?ref_type=heads&inline=false)
+- `Direct APK`: [Download](https://gitlab.com/a0v0/Ball-O-Mania/-/raw/main/apk/ballomania_v1.0.4.apk?ref_type=heads&inline=false)
 - `Playstore`: [Download from Playstore](https://play.google.com/store/apps/details?id=com.starland.ballomania)
 
 
