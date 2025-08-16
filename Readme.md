@@ -3,7 +3,8 @@
 A game I created when I was in high school. Built it in [Unity](https://unity.com/) game engine and on my tenant's laptop.
 
 ## Screenshots
-<img src="https://play-lh.googleusercontent.com/i3vgauH3rbWADJjNkt3SbXOnYPPi2LRfXuuAEo6SxvR5CNu87xe2E4asbJYd_BZ8ga_4=w2560-h1440-rw" width="45%"></img> <img src="https://play-lh.googleusercontent.com/WlnM4n0cai0PC_VZInC_R4Sq3L5pLmYopqfrC501uvbQul1H7wn66QjfBBcnmXo56Y0=w2560-h1440-rw" width="45%"></img> 
+![](assets/1.webp)
+![](assets/2.webp)
 
 ## Download
 The game **was** available on Playstore but due to Playstore rule and regulations to constantly keeping it updated to target latest android devices stopped showing in Playstore. 
